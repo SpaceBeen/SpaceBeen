@@ -39,4 +39,4 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Stats:fire:
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SpaceBeen&theme=highcontrast&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SpaceBeen&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
